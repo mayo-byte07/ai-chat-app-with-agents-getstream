@@ -321,4 +321,4 @@ For support and questions:
 
 ---
 
-Built with ❤️ using GetStream.io, OpenAI, and modern web technologies.
+Built with ❤️ using GetStream.io, OpenAI, and modern web technologies...
